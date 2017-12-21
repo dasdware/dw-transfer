@@ -1,0 +1,10 @@
+/**
+ * Specific CSS for admin area.
+ */
+ .form-heading {
+     font-weight: bold;
+ }
+
+ .form-field {
+     margin-bottom: 0.5em;
+ }
